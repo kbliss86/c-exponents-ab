@@ -1,0 +1,7 @@
+C:\Users\Kendall\bootcamp_c_sharp\c-exponents-ab\exponents-lab\bin\Debug\exponents-lab.exe.config
+C:\Users\Kendall\bootcamp_c_sharp\c-exponents-ab\exponents-lab\bin\Debug\exponents-lab.exe
+C:\Users\Kendall\bootcamp_c_sharp\c-exponents-ab\exponents-lab\bin\Debug\exponents-lab.pdb
+C:\Users\Kendall\bootcamp_c_sharp\c-exponents-ab\exponents-lab\obj\Debug\exponents-lab.csproj.AssemblyReference.cache
+C:\Users\Kendall\bootcamp_c_sharp\c-exponents-ab\exponents-lab\obj\Debug\exponents-lab.csproj.CoreCompileInputs.cache
+C:\Users\Kendall\bootcamp_c_sharp\c-exponents-ab\exponents-lab\obj\Debug\exponents-lab.exe
+C:\Users\Kendall\bootcamp_c_sharp\c-exponents-ab\exponents-lab\obj\Debug\exponents-lab.pdb
